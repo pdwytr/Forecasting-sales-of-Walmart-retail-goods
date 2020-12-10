@@ -1,7 +1,7 @@
-# M5CompetitionForecasting-Estimate-the-unit-sales-of-Walmart-retail-goods
+# Estimate-the-unit-sales-of-Walmart-retail-goods
 
 ## Introduction
-Here is my first submission for the M5 accuracy competition conducted by [Makridakis Open Forecasting Center (MOFC) at the University of Nicosia](https://www.kaggle.com/c/m5-forecasting-accuracy)
+Here is my submission for the M5 accuracy competition conducted by [Makridakis Open Forecasting Center (MOFC) at the University of Nicosia](https://www.kaggle.com/c/m5-forecasting-accuracy)
 ### Competition
 Hierarchical sales data from Walmart, the world’s largest company by revenue, is being used to forecast daily sales for the next 28 days. The data covers stores in three US states (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Also, it has explanatory variables such as price, promotions, day of the week, and special events. Together, one may use this robust dataset to improve forecasting accuracy.
 ### Evaluation
